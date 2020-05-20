@@ -4,8 +4,15 @@ def check(list):
     return 0
   else:
     return 1
-    
-    
+  
+ # Now this function will give the frequency of each element and for this i will use another data structure called Dictionary
+def freq(list):
+  x=dict()
+  for i in list:
+    x[i]=x.get(i,0)+1
+  return x
+  
+#This is returning a dictionary in which name-value pairs are there.
     
     
   
