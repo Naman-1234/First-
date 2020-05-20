@@ -1,6 +1,5 @@
 #This File show Webbrowser Module 
-
-
+#Then after learning that I commented it to demonstrate the use of date and time module 
 
 #import turtle
 #turtle.forward(101)
