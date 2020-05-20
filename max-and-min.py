@@ -1,3 +1,6 @@
+#The special Thing about this program is that use the concept of none variable which is not present in other languages i have learnt
+
+
 largest = None
 smallest = None
 while True:
