@@ -1,3 +1,4 @@
+#This is my solution of this code this problem is available on Hackerrank platform
 from collections import OrderedDict         
 def merge_the_tools(string, k):
     x=""
